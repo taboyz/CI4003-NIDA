@@ -1,0 +1,4 @@
+Samsung Galaxy S7,2,15990
+iPhone,3,26500
+Apple Watch,1,10500
+HP Notebook,4,20400
